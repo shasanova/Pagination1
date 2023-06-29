@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{592B76A1-8395-47F7-A078-8A64D98E995F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Pustok2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Areas/Manage/Controllers/SliderController.cs">
+    <Files>
+      <File FileName="Areas/Manage/Controllers/SliderController.cs" Line="82" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pustok2" expanded="True">
+            <Node name="Pustok2" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Manage" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="SliderController.cs" selected="True" />
+                  </Node>
+                  <Node name="ViewModels" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Shared" expanded="True" />
+                    <Node name="SLider" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Entities" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="manage" expanded="True">
+                  <Node name="assets" expanded="True" />
+                  <Node name="uploads" expanded="True">
+                    <Node name="sliders" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
